@@ -4,7 +4,7 @@
 ## Description
 System allows registration with an empty password firld.
 
-## steps to reproduce 
+## Steps to reproduce 
 1. Go to rigistration page.
 2. Enter username "Rasul".
 3. Enter email "Test@mail.com".
